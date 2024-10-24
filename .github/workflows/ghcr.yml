@@ -39,7 +39,7 @@ jobs:
             ${{ runner.os }}-buildx-
 
       - name: Log in to the Container registry
-        uses: docker/login-action@5fcefb941de79536616e9422226e33fd39f1706f
+        uses: docker/login-action@5d8785b43a795ee002a17dbf1a2235dc1997224b
         with:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
