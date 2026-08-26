@@ -148,7 +148,7 @@ jobs:
       - name: Use Node.js 14
         uses: actions/setup-node@v2
         with:
-          node-version: 14.x
+          node-version: 24.x
       - uses: c-hive/gha-yarn-cache@v2
       - name: Sets up an Erlang/OTP environment
         uses: erlef/setup-beam@v1
