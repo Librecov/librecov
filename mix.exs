@@ -87,7 +87,7 @@ defmodule Librecov.Mixfile do
       {:open_api_spex, "~> 3.10"},
       {:ueberauth, "~> 0.7"},
       {:ueberauth_github,
-       github: "ueberauth/ueberauth_github", ref: "0617af32b52b77e64f261da36b13b5c5d1616ab1"},
+       github: "ueberauth/ueberauth_github", ref: "94fdd8eb4105fe1b71eb6f0759993deef7d27f19"},
       {:ueberauth_identity, "~> 0.4"},
       {:guardian, "~> 2.2"},
       {:guardian_db, "~> 2.1"},
