@@ -48,7 +48,7 @@
     "bootstrap": "^5.1.0",
     "font-awesome": "^4.4.0",
     "highlight.js": "^11.2.0",
-    "jquery": "^3.6.0",
+    "jquery": "^4.0.0",
     "lcov-parse": "^1.0.0",
     "lodash": "^4.17.20",
     "phoenix": "^1.6.0-rc.0",
